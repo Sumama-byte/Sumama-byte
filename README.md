@@ -1,5 +1,5 @@
 # 💫 About Me:
-I focus on crafting engaging visuals,<br>brand identities, and marketing materials <br>that not only look great but also resonate with<br>the target audience. On the development side, <br>I have hands-on experience building <br>responsive websites and intuitive mobile <br>applications, ensuring seamless performance <br>and user satisfaction.I take pride in my <br>attention to detail, creativity, and ability to<br> adapt to new challenges. Whether it’s <br>designing, coding, or collaborating on<br> innovative projects, I’m always eager to<br> deliver work that exceeds expectations and<br> makes an impact.
+I focus on crafting engaging visuals, brand identities, and marketing materials that not only look great but also resonate with the target audience. On the development side, I have hands-on experience building responsive websites and intuitive mobile applications, ensuring seamless performance and user satisfaction. I take pride in my attention to detail, creativity, and ability to  adapt to new challenges. Whether it’s  designing, coding, or collaborating on  innovative projects, I’m always eager to  deliver work that exceeds expectations and makes an impact.
 
 
 # 💻 Tech Stack:
